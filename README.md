@@ -1,7 +1,6 @@
 ## Hello, I'm a Web Developer.
 
 - 🔭 I’m currently working on CarbonLab Tech.
-- 🌱 I’m currently learning Nest.js.
 - 👯 I’m looking to collaborate on React.js projects.
 
 ## Stats
